@@ -1,1 +1,0 @@
-# simple-web-page-for-booking-classes-online.
